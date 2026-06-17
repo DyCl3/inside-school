@@ -7,7 +7,4 @@
 
 Di *site* ini kalian bakal ngeliat semua note gua yang udah gua buat selama di SMAKBO. Masih dalam tahap *beta* dan masih banyak yang perlu di *maintenance*. Dah gitu aja, oke jadi... *ekhm*...
 
-# Apa yang kamu mau liat dari note gua?
-## [[Kimia\|Kimia]]
-## [[Lab\|Lab]]
 
